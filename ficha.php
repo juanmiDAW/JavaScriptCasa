@@ -16,7 +16,7 @@
     <br>
     <?="Hola esto es php aunque no lo parezca"?>
     <br>
-    <?=holiiii?>
+    <?=holii?>
 
 </body>
 </html>
